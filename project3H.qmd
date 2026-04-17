@@ -38,7 +38,7 @@ ggplot(data = edu_ons, aes(y=Act19_FTE, x = RGN11NM, fill = RGN11NM)) +
      legend.position = "none",
      axis.text.x = element_text(angle = 90),
      axis.title.x = element_blank()) +
-  ylab("KS4 attainment 2012-13")  + ylim(0,80) +
+  ylab("Percentage in full-time HE")  + ylim(0,80) +
   geom_text(data = region_sum, aes(x=reg_num, y=3, label = label))
 
 ```
