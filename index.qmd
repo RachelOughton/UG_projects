@@ -1,0 +1,9 @@
+---
+title: "Undergraduate projects"
+format: html
+editor: source
+---
+
+This page gives details for the undergraduate projects I am offering.
+
+If you have any questions, please contact me at r.h.oughton@durham.ac.uk.
