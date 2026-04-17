@@ -2,21 +2,21 @@
   {
     "objectID": "project3H.html",
     "href": "project3H.html",
-    "title": "Project 3H: Multilevel Models",
+    "title": "Project 3H: Working with hierarchical / multilevel data",
     "section": "",
     "text": "Research Area: Statistics\nClassification: Data analysis\nLots of real world data have a hierarchical or clustered structure: children are grouped within schools, patients within hospitals, families within neighbourhoods (within regions, within countries etc.).\nIt is reasonable to expect that children within the same school (for example) might be more similar to one another in some ways than children from different schools. This might be because of how the schools select or admit students, or it might be a result of each school’s individual culture or governance. However it comes about, this hierarchical structure makes a lot of the statistical methods you’ve learned about so far invalid, because they rely on the assumption that data are independently and identically distributed.\nIn this project, we’ll look at how to understand and analyse these sorts of datasets."
   },
   {
     "objectID": "project3H.html#group-project",
     "href": "project3H.html#group-project",
-    "title": "Project 3H: Multilevel Models",
+    "title": "Project 3H: Working with hierarchical / multilevel data",
     "section": "Group Project",
     "text": "Group Project\nIn the group project phase, we’ll focus on learning the basic and fundamental concepts necessary to work with hierarchical datasets. By the end, we will have covered:\n\nIntracluster correlation\nFixed effects and random effects\nThe basic two-level model\nWorking with hierarchical data in R\n\n\nMode of operation and evidence of learning for group project\nThis project will involve a combination of learning new theory and methodology (from books, articles etc.) and applying it to datasets (either real or synthetic). Students will demonstrate their understanding by clearly communicating what they have learned in both written and oral formats, and by insightful interpretation of any examples or case studies."
   },
   {
     "objectID": "project3H.html#individual-project",
     "href": "project3H.html#individual-project",
-    "title": "Project 3H: Multilevel Models",
+    "title": "Project 3H: Working with hierarchical / multilevel data",
     "section": "Individual project",
     "text": "Individual project\nHaving established the core principles, in the individual project you will be able to pursue a more advanced aspect of the topic. Some possible directions you could take include\n\nLongitudinal data (repeated measures of the same subject)\nHierarchical data with a discrete response variable\nMultivariate multilevel models - multiple response variables ‘clustered’ within the same individual\nThree-level models and more complex hierarchical structures\nBayesian approaches to hierarchical modelling\nA case study of a particular, complex dataset\n\n\nMode of operation and evidence of learning for individual project\nThis project will involve a combination of learning new theory and methodology (from books, articles etc.) and applying it to datasets (either real or synthetic). Students will demonstrate their understanding by clearly communicating what they have learned in both written and oral formats, and by insightful interpretation of any examples or case studies.\n\n\n\n\n\n\nNoteResources\n\n\n\nThese three books each provide great coverage of the topic, and all are available online. You may have to log in to the library for these links to work.\n\nMultilevel statistical models (Harvey Goldstein)\nMultilevel Modeling using R (Holmes Finch)\nData analysis using regression and multilevel/hierarchical models (Andrew Gelman)\n\n\n\n\n\n\n\n\n\nNotePrerequisites and co-requisites\n\n\n\nData Science & Statistical Modelling II Desirable: Advanced Statistical Modelling III\n\n\nIf you have any questions, feel free to email me: r.h.oughton@durham.ac.uk."
   },

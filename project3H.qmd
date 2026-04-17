@@ -1,5 +1,5 @@
 ---
-title: "Project 3H: Multilevel Models"
+title: "Project 3H: Working with hierarchical / multilevel data"
 ---
 
 **Research Area: Statistics**
