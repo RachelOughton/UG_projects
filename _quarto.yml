@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rachel Oughton"
+  navbar:
+    left:
+      - href: project3H.qmd
+        text: Project 3H
+      - href: project4H.qmd
+        text: Project 4H
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    page-layout: full
+
+editor: source
+
